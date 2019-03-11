@@ -3,7 +3,7 @@ This is a assignment from Fraunhofer IOSB
 ## Disparity
 The amount to which a single pixel is displaced in the two images(stereo) is called disparity. A pixel’s disparity is inversely proportional to its depth in the scene.
 
-![disparity1](https://user-images.githubusercontent.com/32526153/54095641-9c752380-43a8-11e9-9e7c-7718c852581f.gif=250x250)
+![disparity1](https://user-images.githubusercontent.com/32526153/54095641-9c752380-43a8-11e9-9e7c-7718c852581f.gif| width=48)
 
 The disparity of each pixel is encoded by a gray value. Light gray values represent high disparities, denoting greater motion and lesser distance and dark gray values small disparities. The resulting image is called disparity map. This  disparity map contains sufficient information for generating a 3D model.
 
