@@ -30,7 +30,5 @@ http://vision.middlebury.edu/stereo/data/scenes2001/data/tsukuba/
 ```
 
 ## Usage
-```
 Once Qt 5 and OpenCV installed, clone this repo, open the .pro file, it should launch the project in Qt 5 and you will be able to run the program, and modify it.
 
-```
