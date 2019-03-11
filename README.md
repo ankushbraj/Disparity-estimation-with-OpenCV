@@ -12,7 +12,7 @@ The disparity of each pixel is encoded by a gray value. Light gray values repres
 The following image represent stereo arrangement (O and O') to find the depth of a point X, z. So, it can be seen that the depth is inversely proportional to disparity.
 
 ## Disparity Estimation using StereoBM and StereoSGBM
-The matching process is performed for every pixel in the left image, finding its match in the right image frame and computing the distance between them which results in an image where every pixel contains the distance/disparity value for that pixel in the left image. For example, given a left image ![im0](.ppm) and right image ![im1](.ppm) results in disparity images ![out1](.jpg) using Stereo Block Matching Algorithm(SBM) and ![out2](.jpg) using Stereo Semi Block Matching Algorithm(SGBM).
+The matching process is performed for every pixel in the left image, finding its match in the right image frame and computing the distance between them which results in an image where every pixel contains the distance/disparity value for that pixel in the left image. For example, given a left image *im0.ppm* and right image *im1.ppm* results in disparity images *out1.jpg* using Stereo Block Matching Algorithm(SBM) and *out2.jpg* using Stereo Semi Block Matching Algorithm(SGBM).
 
 ## Dependencies
 This project has the following dependencies: 
