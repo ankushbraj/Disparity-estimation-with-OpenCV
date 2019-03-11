@@ -7,7 +7,7 @@ The amount to which a single pixel is displaced in the two images(stereo) is cal
 
 The disparity of each pixel is encoded by a gray value. Light gray values represent high disparities, denoting greater motion and lesser distance and dark gray values small disparities. The resulting image is called disparity map. This  disparity map contains sufficient information for generating a 3D model.
 
-![disparity](https://user-images.githubusercontent.com/32526153/54095638-9aab6000-43a8-11e9-8352-1ba2961d6232.png)
+![disparity](https://user-images.githubusercontent.com/32526153/54096028-4ef9b600-43aa-11e9-8e1e-c44863eaaef4.png)
 The following image represent stereo arrangement (O and O') to find the depth of a point X, z. So, it can be seen that the depth is inversely proportional to disparity.
 
 ## Disparity Estimation using StereoBM and StereoSGBM
