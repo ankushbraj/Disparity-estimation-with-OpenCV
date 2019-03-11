@@ -1,5 +1,5 @@
 # Disparity estimation using OpenCV
-This is a assignment from Fraunhofer IOSB
+
 ## Disparity
 The amount to which a single pixel is displaced in the two images(stereo) is called disparity. A pixel’s disparity is inversely proportional to its depth in the scene.
 
