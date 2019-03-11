@@ -14,6 +14,8 @@ The following image represent stereo arrangement (O and O') to find the depth of
 ## Disparity Estimation using StereoBM and StereoSGBM
 The matching process is performed for every pixel in the left image, finding its match in the right image frame and computing the distance between them which results in an image where every pixel contains the distance/disparity value for that pixel in the left image. For example, given a left image *im0.ppm* and right image *im1.ppm* results in disparity images *out1.jpg* using Stereo Block Matching Algorithm(SBM) and *out2.jpg* using Stereo Semi Block Matching Algorithm(SGBM).
 
+The implementation procedure is written as comments in *main.cpp*
+
 ## Dependencies
 This project has the following dependencies: 
 ```
