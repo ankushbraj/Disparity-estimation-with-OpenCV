@@ -39,6 +39,7 @@ Once Qt 5 and OpenCV installed, clone this repo, open the .pro file, it should l
 ```
 http://www.ifp.uni-stuttgart.de/publications/phowo11/180Hirschmueller.pdf
 https://www.researchgate.net/publication/220845069_A_Correlation-Based_Approach_for_Real-Time_Stereo_Matching
+https://dsp.stackexchange.com/questions/2736/step-by-step-camera-pose-estimation-for-visual-tracking-and-planar-markers
 
 ```
 
