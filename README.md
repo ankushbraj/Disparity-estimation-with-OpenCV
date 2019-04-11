@@ -34,3 +34,11 @@ http://vision.middlebury.edu/stereo/data/scenes2001/data/tsukuba/
 ## Usage
 Once Qt 5 and OpenCV installed, clone this repo, open the .pro file, it should launch the project in Qt 5 and you will be able to run the program, and modify it.
 
+
+## papers
+```
+http://www.ifp.uni-stuttgart.de/publications/phowo11/180Hirschmueller.pdf
+https://www.researchgate.net/publication/220845069_A_Correlation-Based_Approach_for_Real-Time_Stereo_Matching
+
+```
+
